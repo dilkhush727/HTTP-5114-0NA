@@ -13,7 +13,8 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
 # Image
-![Git Workflow](Workshop.png)
+![image](https://github.com/user-attachments/assets/af2bd322-b3ef-498b-b180-7ce4de48b33f)
+
 
 ***Notice:*** This repository contains my weekly work for this course. Mastering Git is crucial for effective collaboration and version control in development projects.
 
